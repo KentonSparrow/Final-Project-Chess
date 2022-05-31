@@ -1,0 +1,10 @@
+RNBQKBNR
+PP_PPPPP
+________
+__p_____
+________
+________
+p_pppppp
+rnbqkbnr
+Current Player:
+

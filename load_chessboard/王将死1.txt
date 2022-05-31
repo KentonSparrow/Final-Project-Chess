@@ -1,0 +1,10 @@
+RNB_KBNR
+PPP_pPPP
+________
+________
+________
+________
+ppp_pppp
+rnbqkbnr
+Current Player: BLACK
+

@@ -1,0 +1,10 @@
+RNBQKB_R
+PP__PPPP
+___p___N
+________
+________
+________
+p_pppppp
+rnbqkbnr
+Current Player: WHITE
+
